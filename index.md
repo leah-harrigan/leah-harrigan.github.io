@@ -1,7 +1,7 @@
 ---
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
+layout: home
 ---
 
 <img align='right' height='150' width='150' style="padding:0px 10px 0px 10px; border-radius: 50%" src="./assets/Leah.png"/>
