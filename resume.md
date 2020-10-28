@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-[Download PDF]()
+[Download PDF](./assets/Resume_Leah-Harrigan_Oct_2021.pdf)
 
 > ### Silver Lining Mentoring (Boston, MA)
  - Program Manager (2019 – Present) <br>
