@@ -4,4 +4,4 @@ title: Blog
 permalink: /blog/
 ---
 
-This is my blog - I write about xyz. 
+A collection of my thoughts on topics adjacent to social emotional learning, educational equity, and inclusion at work.
