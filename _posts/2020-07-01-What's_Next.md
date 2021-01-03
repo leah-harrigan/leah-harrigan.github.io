@@ -17,7 +17,7 @@ When I think about what young people have been through thus far in 2020, I’m t
 
 A bad dream calls for an awakening. The eventual [return to school](https://www.edsurge.com/news/2020-05-27-what-will-schools-do-in-the-fall-here-are-4-possible-scenarios) represents a return to ourselves, and a chance for a new paradigm of how we teach, learn, and interact with awareness. It’s the time to equip young people to have conversations about race and economic disparities. To bring a powerful social justice lens in and outside of the classroom. To help youth practice and apply social emotional learning skills. To support them in grappling with some messy questions we’ve been shutting out for too long. 
 
->*The eventual return to school represents a return to ourselves, and a chance for a new paradigm of how we teach, learn, and interact with awareness.*
+> ### The eventual return to school represents a return to ourselves, and a chance for a new paradigm of how we teach, learn, and interact with awareness.
 
 At it’s core, it’s this: Who am I? How do I matter? How can I help others matter? These are the inquiries we need to put in their hands to start the years-long process of rebuilding a society teetering at cliff’s edge.
 #
@@ -31,7 +31,9 @@ Planning for the next school year will be a tall order, and as districts struggl
 
 These 5 major tenets of social and emotional learning introduced by the [CASEL framework](https://casel.org/what-is-sel/) are not just lessons to teach youth – they’re [critical for adults](https://www.panoramaed.com/blog/comprehensive-guide-adult-sel) to make it through the world each day. Tending to these particular skills strengthens our adaptability to unpredictable times and equips us to support better learning environments for youth. At the day’s end, every young person has potential if they’re in an environment designed to support that potential.
 
-<img align='center' height='360' width='420' style="padding:0px 10px 0px 180px; border-radius: 50%" src="../assets/SEL_Wheel.png"/>
+<p align="center">
+<img align='centre' height='450' width='525' style="padding:0px 10px 0px 0px; border-radius: 0%" src="/assets/SEL_Wheel.png"/>
+</p>
 
 Let’s acknowledge our collective trauma, and let’s acknowledge we still may be crawling the dark for some time. What matters now is how we shape the environment we’re in (schools, virtual classrooms, outdoor spaces) not only to teach [SEL skills](https://www.cfchildren.org/what-is-social-emotional-learning/), but to create settings for sufficient relationships, for safety and belonging, and with relevant and challenging content for youth. And by taking care of our own social and emotional selves, adults can better steer youth to recognize their own voice and agency in building those skills along the way.
 
