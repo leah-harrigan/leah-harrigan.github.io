@@ -7,7 +7,7 @@ categories: decision-making
 
 Just halfway into the new decade, and it feels like we’re collectively standing on cliff’s edge where the slightest wind could send us head over heels and downward. The coronavirus pandemic has stripped away normalcies of walking into a bustling classroom, commuting to work, or sitting in a coffee shop with millennials clicking away on their laptops. News of [innocent Black lives lost](https://www.npr.org/2020/05/29/865261916/a-decade-of-watching-black-people-die) at the hands of police has ignited protests, amplified anger, and slapped us into taking a hard look at the deep systemic inequities that plague our communities. 
 
-<img align='right' height='250' width='167' style="padding:10px 10px 10px 20px; border-radius: 0%" src="../assets/kid_mask.jpeg"/>
+<img align='right' height='250' width='167' style="padding:10px 10px 10px 20px; border-radius: 0%" src="/assets/kid_mask.jpeg"/>
 
 We’ve reached a tipping point. Which way do we turn?
 
