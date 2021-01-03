@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "2020 Persists. What's Next for Our Youth?"
+title:  "What's Next for Our Youth?"
 date:   2020-07-01 22:23:06 -0700
 categories: decision-making
 ---
 
 Just halfway into the new decade, and it feels like we’re collectively standing on cliff’s edge where the slightest wind could send us head over heels and downward. The coronavirus pandemic has stripped away normalcies of walking into a bustling classroom, commuting to work, or sitting in a coffee shop with millennials clicking away on their laptops. News of [innocent Black lives lost](https://www.npr.org/2020/05/29/865261916/a-decade-of-watching-black-people-die) at the hands of police has ignited protests, amplified anger, and slapped us into taking a hard look at the deep systemic inequities that plague our communities. 
+
+<img align='right' height='250' width='167' style="padding:10px 10px 10px 20px; border-radius: 0%" src="../assets/kid_mask.jpeg"/>
 
 We’ve reached a tipping point. Which way do we turn?
 
@@ -15,8 +17,10 @@ When I think about what young people have been through thus far in 2020, I’m t
 
 A bad dream calls for an awakening. The eventual [return to school](https://www.edsurge.com/news/2020-05-27-what-will-schools-do-in-the-fall-here-are-4-possible-scenarios) represents a return to ourselves, and a chance for a new paradigm of how we teach, learn, and interact with awareness. It’s the time to equip young people to have conversations about race and economic disparities. To bring a powerful social justice lens in and outside of the classroom. To help youth practice and apply social emotional learning skills. To support them in grappling with some messy questions we’ve been shutting out for too long. 
 
-At it’s core, it’s this: Who am I? How do I matter? How can I help others matter? These are the inquiries we need to put in their hands to start the years-long process of rebuilding a society teetering at cliff’s edge.
+>*The eventual return to school represents a return to ourselves, and a chance for a new paradigm of how we teach, learn, and interact with awareness.*
 
+At it’s core, it’s this: Who am I? How do I matter? How can I help others matter? These are the inquiries we need to put in their hands to start the years-long process of rebuilding a society teetering at cliff’s edge.
+#
 Planning for the next school year will be a tall order, and as districts struggle to decide upon the best path forward we’re reminded of what’s most useful during times of critical problem solving. Arms shaking, we hold up the mirror to examine the very same things we teach our youth:
 
  - Self-awareness. How are our emotions influencing our behavior and decisions?
@@ -27,6 +31,8 @@ Planning for the next school year will be a tall order, and as districts struggl
 
 These 5 major tenets of social and emotional learning introduced by the [CASEL framework](https://casel.org/what-is-sel/) are not just lessons to teach youth – they’re [critical for adults](https://www.panoramaed.com/blog/comprehensive-guide-adult-sel) to make it through the world each day. Tending to these particular skills strengthens our adaptability to unpredictable times and equips us to support better learning environments for youth. At the day’s end, every young person has potential if they’re in an environment designed to support that potential.
 
+<img align='center' height='360' width='420' style="padding:0px 10px 0px 180px; border-radius: 50%" src="../assets/SEL_Wheel.png"/>
+
 Let’s acknowledge our collective trauma, and let’s acknowledge we still may be crawling the dark for some time. What matters now is how we shape the environment we’re in (schools, virtual classrooms, outdoor spaces) not only to teach [SEL skills](https://www.cfchildren.org/what-is-social-emotional-learning/), but to create settings for sufficient relationships, for safety and belonging, and with relevant and challenging content for youth. And by taking care of our own social and emotional selves, adults can better steer youth to recognize their own voice and agency in building those skills along the way.
 
-We stand on the cliff, arms outstretched and palms up. We turn to compassion and questions. This time is a catalyst for us to ask one another How do you best learn? and What do you need?. We are all the experts of what we need, and youth are no different. Let’s listen to them.
+We stand on the cliff, arms outstretched and palms up. We turn to compassion and questions. This time is a catalyst for us to ask one another *How do you best learn?* and *What do you need?* We are all the experts of what we need, and youth are no different. Let’s listen to them.
