@@ -16,7 +16,7 @@ You walk into work ready to manage your team of dedicated, do-good counselors wh
 
 Then reality kicks in. 
 
-At 9:10am, your senior staff, Kayla, calls out sick. She visited a flu-ridden home yesterday to meet with a 13 year-old who self-harms on the daily and isn’t yet ready to talk to her mom about it. Kayla had three in-home sessions scheduled for today (in 3 different cities) and now you need to find coverage from other staff who have full plates of their own. 
+At 9:10am, your senior staff, Kayla, calls out sick. She visited a flu-ridden home yesterday to meet with a 13 year-old who self-harms on the daily and isn’t yet ready to talk to her dad about it. Kayla had three in-home sessions scheduled for today (in 3 different cities) and now you need to find coverage from other staff who have full plates of their own. 
 
 In this field, sometimes it feels like asking for a kidney when it comes to asking someone to add an hour or two to their already 10-hour work day. 
 
