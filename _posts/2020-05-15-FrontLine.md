@@ -42,8 +42,9 @@ You attend the admission session by yourself tonight. It ends at about 7:30pm, b
 
 Alas, the day is done (unless you’re on call, but that’s another story).
 
-_________
-## Where do we go from here? ##
+<br>
+
+## Where do we go from here?
 
 In the profession of supporting youth who are at risk of being removed from their homes, unpredictability is the only constant. Despite solving a handful of problems today on the fly (conducting two therapy sessions, reassuring and teaching staff, and staying on top of paperwork), the weight of the stress has completely outweighed the satisfaction you might feel for completing any one of those tasks alone.
 
@@ -59,7 +60,7 @@ In surveying the peaks and valleys of the social work system, we need to start w
 
 During my time as a manager I’ve learned that tending to the well-being of staff is the most critical move to extend ripples of relief to the people they support. Here are ideas for making some initial positive ripples in a social services system that is (at this rate) at risk for collapse:
 
-**1. Engage, engage, engage**. 
+**1. Engage, engage, engage**
 
 Who wants to feel burnt-out and unappreciated? Leaders need to focus on action steps to help their staff feel valued, appropriately challenged, and trustful of their peers and managers. [Taking time to learn about the dynamics of effective teams](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/identify-dynamics-of-effective-teams/_) is worthwhile when staff depend on one another for just about everything. In a nutshell, some key things to keep at the forefront are:
 - *Psychological safety*: create spaces where people perceive they can take interpersonal risks, float ideas freely, and make mistakes among others who respond supportively. This is the big-ticket item in any well-functioning community (work, school, home, neighborhood, teams, etc.).
@@ -70,28 +71,29 @@ Who wants to feel burnt-out and unappreciated? Leaders need to focus on action s
 
 -	*Impact*: help people see how their work contributes to the organization’s bigger picture goals. Especially the challenging work.
 
-**2. Quality over quantity**. 
+**2. Quality over quantity**
 
 True, giving staff a caseload of 5 families instead of 4 will bring in more money from funders, but it will significantly increase the likelihood of [good workers leaving the field to preserve their sanity](https://ct.counseling.org/2018/03/the-battle-against-burnout/) and work-life balance. Domino effects occur when remaining workers bear the brunt of leavers – leaving those 5 families with lower-quality support that just scrapes the surface of adequate care. 
 
 Talk with workers about what is truly reasonable in terms of making impact, and consider how money earned now may affect money (and good workers) lost later. Collect the data, and share it with the decision makers.
 
-**3. Invest in wellness**.
+**3. Invest in wellness**
 
 Identify the emotional paper cuts this field can open and cater staff development to those needs. Do staff need a refresher on vicarious trauma? Will they benefit from dedicated time to share ideas on how they combat stress? Time spent on preventative care can make all the difference when it comes to facing a stressor head-on, not to mention increase their own problem-solving skills.
 
-**4. Expand resources (creatively)**.
+**4. Expand resources (creatively)**
 
 Let’s be honest – it’s hard to buy items for a youth’s sensory toolbox on a $10 budget. Brainstorm creative ways to get the ideas and materials you need. Is the art store open to giving a discount on surplus items? Is the local university willing to donate tickets to their basketball games, to give youth and parents some quality-time resources? [You never know what you might get until you ask](https://www.ted.com/talks/jia_jiang_what_i_learned_from_100_days_of_rejection).
 
-**5. Take productive risks**.
+**5. Take productive risks**
 
 Will hiring someone to do filler-work (when someone is out sick, session coverage is needed, or that audit has to get done) benefit workers and systems overall? Where can we cut back funding to invest in something that will really quench the thirst of frontline staff? What are they asking for that’s reasonable and helpful? You can’t put a Band-Aid on a burn and expect everything to be okay.
 
 
 Each of these ideas scratches the surface of strategies that might make days in the helping profession a bit easier. They are certainly not easy fixes – especially coupled with emotionally taxing work that permeates people’s mental clarity, making it hard to catch a balcony view.
 
-_____
+---
+<br>
 It’s clear that the majority of people pursue type of work because they care, and because they truly want to ease the sufferings and inequities that come with involvement in the social service system. It’s imperfect and will remain imperfect. But I believe the profession of social work deserves a continual evaluation, one where we can’t accept the daily status quo, simply because it’s an area that *needs* quality workers who must give up much of themselves for a larger ideal.
 
 <img align='right' height='220' width='330' style="padding:10px 0px 20px 5px; border-radius: 0%" src="/assets/lightbulb.jpg"/>
