@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Front Line Social Work Management: An Inside Look"
+title:  "Frontline social work management: An inside look"
 date:   2020-05-15
 categories: decision-making
 

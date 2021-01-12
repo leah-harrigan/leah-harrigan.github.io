@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What's Next for Our Youth?"
+title:  "What's next for our youth?"
 date:   2020-07-01 22:23:06 -0700
 categories: decision-making
 ---
