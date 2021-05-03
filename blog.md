@@ -5,7 +5,7 @@ permalink: /blog/
 ---
 
 <p align="center">
-A collection of my thoughts on topics adjacent to social and emotional learning,
+A collection of my thoughts on topics adjacent to belonging,
 educational equity, and inclusion at work.
 </p>
 
