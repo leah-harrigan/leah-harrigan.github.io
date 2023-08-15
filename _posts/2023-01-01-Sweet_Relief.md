@@ -17,8 +17,9 @@ It’s only human to want to fight against painful experiences. They come dresse
 
 Because there’s really no good reason to welcome painful thoughts, right? 
 
-<img align='center' height='220' width='330' style="padding:10px 0px 20px 5px; border-radius: 0%" src="/assets/lady.jpg"/>
-
+<p align="center">
+<img height="279" width='334' style="padding:10px 0px 20px 10px; border-radius: 0%" src="/assets/lady.jpg"/>  
+</p>
 
 But here’s the problem. Painful experiences and the impressions they’ve left – they don’t go away. They rest like half-healed cuts in our hearts, fragile and sensitive to the slightest of disturbances. Then we hear about a friend getting a job at that company we wanted to work for. Or we see a picture of our ex smiling on Facebook. The half-healed cut opens and sears, and we realize that thing we’ve been pushing *down* will inevitably keep coming *up*.
 
@@ -34,7 +35,7 @@ The hard truth is, *feeling better comes with letting go*. Because once we accep
 
 It isn’t easy to let go, we know this. But there’s a cost to clinging. If we attach ourselves to unresolved feelings, we’re constantly in self-protection mode. **We deny and deny, and so we can’t open our arms to life.** Once we’re aware that clinging has such a high cost, it makes it a little easier to see the hope that comes with finally releasing our grasp. 
 
-<img align='right' height='220' width='330' style="padding:10px 0px 20px 5px; border-radius: 0%" src="/assets/twirl.jpg"/>
+<img align='right' height='250' width='167' style="padding:10px 0px 20px 10px; border-radius: 0%" src="/assets/twirl.jpg"/>
 
 
 **When we allow space to process loss and accept what is, we put ourselves in the best possible position to change (or move on from) the situation.** Our mind isn’t weighed down by clinging or resisting. We can finally release the heavy anchor attached to the half-healed cut. We can take a deep breath and let it be.
@@ -47,7 +48,9 @@ Because remaining attached to unresolved feelings will always feel that way: unr
 
 It’s counterintuitive to think that by embracing and accepting pain, we can end suffering. But remember that resisting attracts more of what we *don’t* want. Self-pity lengthens and amplifies suffering. By giving it attention or even burying it, we allow it to have more power over us because the root cause is still very much there.
 
-<img align='center' height='220' width='330' style="padding:10px 0px 20px 5px; border-radius: 0%" src="/assets/root.jpg"/>
+<p align="center">
+<img height='250' width='375' style="padding:10px 0px 20px 5px; border-radius: 0%" src="/assets/root.jpg"/>
+</p>
 
 
 It’s not easy, but we can work with what we accept. We can see it for what it is, seek solutions, or create next steps from new angles. We can truly *manage* it.
