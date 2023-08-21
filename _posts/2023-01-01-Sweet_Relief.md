@@ -29,7 +29,7 @@ Can those four words really change everything?
 
 <br>
 
-This idea is often credited to [Swiss psychologist Carl Jung](https://www.simplypsychology.org/carl-jung.html)and his claim that what you resist not only persists, but grows in size. It’s our instinct to resist pain, but when it comes to emotional pain, that’s usually the symptom of a deeper problem. **Resisting negative feelings actually invites us to feed right into them**. We give them the full-spotlight attention and thus, serious jurisdiction over our internal peace.
+This idea is often credited to [Swiss psychologist Carl Jung](https://www.simplypsychology.org/carl-jung.html) and his team claim that what you resist not only persists, but grows in size. It’s our instinct to resist pain, but when it comes to emotional pain, that’s usually the symptom of a deeper problem. **Resisting negative feelings actually invites us to feed right into them**. We give them the full-spotlight attention and thus, serious jurisdiction over our internal peace.
 
 The hard truth is, *feeling better comes with letting go*. Because once we accept what is, we finally release our grasp from the toxic emotions that accompany bad feelings and experiences. We make space to put our energy into something more realistic, fulfilling, and growable. We can fully step into the reality we’re working with. 
 

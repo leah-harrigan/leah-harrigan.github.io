@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Frontline social work management: An inside look"
+title:  "Frontline social work: An inside look"
 date:   2020-05-15
 categories: decision-making
 
@@ -96,7 +96,7 @@ Each of these ideas scratches the surface of strategies that might make days in 
 <br>
 It’s clear that the majority of people pursue type of work because they care, and because they truly want to ease the sufferings and inequities that come with involvement in the social service system. It’s imperfect and will remain imperfect. But I believe the profession of social work deserves a continual evaluation, one where we can’t accept the daily status quo, simply because it’s an area that *needs* quality workers who must give up much of themselves for a larger ideal.
 
-<img align='right' height='220' width='330' style="padding:10px 0px 20px 5px; border-radius: 0%" src="/assets/lightbulb.jpg"/>
+<img align='right' height='320' width='330' style="padding:10px 0px 20px 5px; border-radius: 0%" src="/assets/lightbulb.jpg"/>
 
 My decision to leave in-home counseling work was complex, and it involved weighing the gains and losses of sacrificing pieces of my own well-being for a perceived greater good. It’s noteworthy, though, to say that the job that burned me out also left me with the most resilience.
 

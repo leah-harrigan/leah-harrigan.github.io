@@ -13,7 +13,7 @@ Every so often I find a golden nugget on Twitter that just makes sense. Here’s
 
 <br>
 
-A good tweet is always clear and to the point. This one resonates because it’s how I personally define mentoring. It suggests that today’s world, support and scaffolding heavily outweigh prescription in mentoring relationships.
+A good message is always clear and to the point. This one resonates because it’s how I personally define mentoring. It suggests that today’s world, support and scaffolding heavily outweigh prescription in mentoring relationships.
 
 Just think of anyone who’s been a mentor in your life. Did they tell you exactly what to do, just as they did? Or did they show curiosity, encouragement, and resources that allowed to you forge your own path forward?
 
